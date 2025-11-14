@@ -1,0 +1,994 @@
+{
+    "subcategories": [
+        {
+            "id": "162",
+            "categoryId": "15",
+            "name": "Ultimate Abundance",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/products/abundance-ultimate-prosperity-programming-1",
+            "order": null
+        },
+        {
+            "id": "135",
+            "categoryId": "11",
+            "name": "Auto-Immune",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "0"
+        },
+        {
+            "id": "31",
+            "categoryId": "4",
+            "name": "Abundance+",
+            "image": "https://data.smexapp.com/subcategory/ABUNDANCE+.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "0"
+        },
+        {
+            "id": "59",
+            "categoryId": "6",
+            "name": "Genesis",
+            "image": "https://data.smexapp.com/subcategory/genesis sub category.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/products/genesis-frequency-pack",
+            "order": "0"
+        },
+        {
+            "id": "62",
+            "categoryId": "7",
+            "name": "BASIC",
+            "image": "https://data.smexapp.com/subcategory/basic-subcategory (1).png",
+            "is_free": "1",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "0"
+        },
+        {
+            "id": "86",
+            "categoryId": "10",
+            "name": "Advanced Care",
+            "image": "https://data.smexapp.com/subcategory/advance-care-sub-catergory-banner.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/advanced-care/products/complete-advanced-care-frequency-collection",
+            "order": "0"
+        },
+        {
+            "id": "143",
+            "categoryId": "3",
+            "name": "Life Protection",
+            "image": "https://data.smexapp.com/subcategory/life-protection-collection-frequency-484.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/products/life-protection-collection",
+            "order": "0"
+        },
+        {
+            "id": "145",
+            "categoryId": "12",
+            "name": "Dog Quick",
+            "image": "https://data.smexapp.com/subcategory/DOG PROTOCOLS_Extended_Fleas.jpg",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "0"
+        },
+        {
+            "id": "167",
+            "categoryId": "16",
+            "name": "Quantum Longevity Protocol",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "0"
+        },
+        {
+            "id": "1",
+            "categoryId": "2",
+            "name": "Master",
+            "image": "https://data.smexapp.com/subcategory/Master.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "0"
+        },
+        {
+            "id": "146",
+            "categoryId": "12",
+            "name": "Dog Extended",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "1"
+        },
+        {
+            "id": "163",
+            "categoryId": "6",
+            "name": "Braintap",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/products/braintap-frequency-bundle",
+            "order": "1"
+        },
+        {
+            "id": "121",
+            "categoryId": "11",
+            "name": "Children",
+            "image": "https://data.smexapp.com/subcategory/Image 7-3-24 at 2.52 AM.jpeg",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/rife-frequencies/products/rife-frequencies-for-childrens-health",
+            "order": "1"
+        },
+        {
+            "id": "69",
+            "categoryId": "10",
+            "name": "BioHacking Core",
+            "image": "https://data.smexapp.com/subcategory/Biohacking.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/brain-nootropics-longevity-anti-aging-frequency-collection",
+            "order": "1"
+        },
+        {
+            "id": "168",
+            "categoryId": "16",
+            "name": "Quantum Body",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "1"
+        },
+        {
+            "id": "3",
+            "categoryId": "2",
+            "name": "Meditation",
+            "image": "https://data.smexapp.com/subcategory/Meditation.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": null,
+            "order": "1"
+        },
+        {
+            "id": "21",
+            "categoryId": "3",
+            "name": "Anti-Aging I",
+            "image": "https://data.smexapp.com/subcategory/Anti-Aging I.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "1"
+        },
+        {
+            "id": "32",
+            "categoryId": "4",
+            "name": "Abundance Money",
+            "image": "https://data.smexapp.com/subcategory/ABUNDANCE MONEY.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": null,
+            "order": "1"
+        },
+        {
+            "id": "147",
+            "categoryId": "12",
+            "name": "Cat Quick",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "2"
+        },
+        {
+            "id": "164",
+            "categoryId": "6",
+            "name": "Parasite",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "2"
+        },
+        {
+            "id": "2",
+            "categoryId": "2",
+            "name": "Life Force",
+            "image": "https://data.smexapp.com/subcategory/Life Force.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "2"
+        },
+        {
+            "id": "122",
+            "categoryId": "11",
+            "name": "Women",
+            "image": "",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/rife-frequencies/products/rife-frequencies-for-womens-health",
+            "order": "2"
+        },
+        {
+            "id": "68",
+            "categoryId": "10",
+            "name": "SuperBrain for Students",
+            "image": "",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/pages/superbrain-students",
+            "order": "2"
+        },
+        {
+            "id": "33",
+            "categoryId": "4",
+            "name": "Abundance Job/Career",
+            "image": "https://data.smexapp.com/subcategory/ABUNDANCE JOB-CAREER.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": null,
+            "order": "2"
+        },
+        {
+            "id": "22",
+            "categoryId": "3",
+            "name": "Anti-Aging II",
+            "image": "https://data.smexapp.com/subcategory/Anti-Aging II.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "2"
+        },
+        {
+            "id": "23",
+            "categoryId": "3",
+            "name": "Skin Care",
+            "image": "https://data.smexapp.com/subcategory/Skin Care.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": null,
+            "order": "3"
+        },
+        {
+            "id": "4",
+            "categoryId": "2",
+            "name": "Spirituality",
+            "image": "https://data.smexapp.com/subcategory/Spirituality.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": null,
+            "order": "3"
+        },
+        {
+            "id": "148",
+            "categoryId": "12",
+            "name": "Cat Extended",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "3"
+        },
+        {
+            "id": "123",
+            "categoryId": "11",
+            "name": "Men",
+            "image": "",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/rife-frequencies/products/rife-frequencies-for-mens-health",
+            "order": "3"
+        },
+        {
+            "id": "34",
+            "categoryId": "4",
+            "name": "Abundance Business",
+            "image": "https://data.smexapp.com/subcategory/ABUNDANCE BUSINESS.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": null,
+            "order": "3"
+        },
+        {
+            "id": "36",
+            "categoryId": "4",
+            "name": "Manifesting+",
+            "image": "https://data.smexapp.com/subcategory/MANIFESTING+.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": null,
+            "order": "4"
+        },
+        {
+            "id": "5",
+            "categoryId": "2",
+            "name": "Brain Boost",
+            "image": "https://data.smexapp.com/subcategory/Brain Boost.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": null,
+            "order": "4"
+        },
+        {
+            "id": "149",
+            "categoryId": "12",
+            "name": "Animal Quick",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "4"
+        },
+        {
+            "id": "77",
+            "categoryId": "3",
+            "name": "Peak Performance",
+            "image": "https://data.smexapp.com/subcategory/peak performance category.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/peak-performance",
+            "order": "4"
+        },
+        {
+            "id": "124",
+            "categoryId": "11",
+            "name": "Cleansing",
+            "image": "https://data.smexapp.com/subcategory/Image 7-3-24 at 3.14 AM.jpeg",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/rife-frequencies/products/rife-frequencies-for-general-bacteria",
+            "order": "4"
+        },
+        {
+            "id": "24",
+            "categoryId": "3",
+            "name": "Fitness",
+            "image": "https://data.smexapp.com/subcategory/Fitness.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "5"
+        },
+        {
+            "id": "6",
+            "categoryId": "2",
+            "name": "Solfeggio",
+            "image": "https://data.smexapp.com/subcategory/Solfeggio.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": null,
+            "order": "5"
+        },
+        {
+            "id": "150",
+            "categoryId": "12",
+            "name": "Animal Extended",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "5"
+        },
+        {
+            "id": "125",
+            "categoryId": "11",
+            "name": "Bones & Joints",
+            "image": "https://data.smexapp.com/subcategory/Image 7-3-24 at 3.22 AM.jpeg",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/rife-frequencies/products/rife-frequencies-for-joint-pain",
+            "order": "5"
+        },
+        {
+            "id": "35",
+            "categoryId": "4",
+            "name": "Super Brain",
+            "image": "https://data.smexapp.com/subcategory/SUPER BRAIN.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": null,
+            "order": "5"
+        },
+        {
+            "id": "37",
+            "categoryId": "4",
+            "name": "Psychic Ability",
+            "image": "https://data.smexapp.com/subcategory/PSYCHIC ABILITY.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": null,
+            "order": "6"
+        },
+        {
+            "id": "7",
+            "categoryId": "2",
+            "name": "Chakras",
+            "image": "https://data.smexapp.com/subcategory/Chakras.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": null,
+            "order": "6"
+        },
+        {
+            "id": "8",
+            "categoryId": "3",
+            "name": "Wellness",
+            "image": "https://data.smexapp.com/subcategory/wellness-sub-catergory-banner.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": null,
+            "order": "6"
+        },
+        {
+            "id": "127",
+            "categoryId": "11",
+            "name": "Better Mood & Sleep Bundle",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "6"
+        },
+        {
+            "id": "38",
+            "categoryId": "4",
+            "name": "Mind Expansion",
+            "image": "https://data.smexapp.com/subcategory/MIND EXPANSION.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": null,
+            "order": "7"
+        },
+        {
+            "id": "64",
+            "categoryId": "3",
+            "name": "Lyme Remission",
+            "image": "https://data.smexapp.com/subcategory/lymeremission.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/lyme-remission-with-qi-coil-rife-machine/products/lyme-remission-frequency-pack",
+            "order": "7"
+        },
+        {
+            "id": "129",
+            "categoryId": "11",
+            "name": "Chronic",
+            "image": "https://data.smexapp.com/subcategory/chronic pain v5.jpg",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "7"
+        },
+        {
+            "id": "130",
+            "categoryId": "11",
+            "name": "Chronic Fatigue",
+            "image": "https://data.smexapp.com/subcategory/Image 7-31-24 at 1.40 AM.jpeg",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "8"
+        },
+        {
+            "id": "61",
+            "categoryId": "3",
+            "name": "Braintap",
+            "image": "https://data.smexapp.com/subcategory/Braintap.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/braintap-brain-training-for-sleep-focus-peak-performance/products/braintap-frequency-collection",
+            "order": "8"
+        },
+        {
+            "id": "131",
+            "categoryId": "11",
+            "name": "Chronic Pain",
+            "image": "https://data.smexapp.com/subcategory/Screen Shot 2024-07-31 at 1.54.01 AM.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "9"
+        },
+        {
+            "id": "9",
+            "categoryId": "3",
+            "name": "Sexual Wellness",
+            "image": "https://data.smexapp.com/subcategory/Sexual Wellness.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": null,
+            "order": "9"
+        },
+        {
+            "id": "133",
+            "categoryId": "11",
+            "name": "Arthritis",
+            "image": "https://data.smexapp.com/subcategory/Screen Shot 2024-07-31 at 2.07.19 AM.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "10"
+        },
+        {
+            "id": "10",
+            "categoryId": "3",
+            "name": "Supplements",
+            "image": "https://data.smexapp.com/subcategory/Supplements.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": null,
+            "order": "10"
+        },
+        {
+            "id": "11",
+            "categoryId": "3",
+            "name": "Life Force+",
+            "image": "https://data.smexapp.com/subcategory/Life Force+.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": null,
+            "order": "11"
+        },
+        {
+            "id": "134",
+            "categoryId": "11",
+            "name": "Drug Addiction",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "11"
+        },
+        {
+            "id": "12",
+            "categoryId": "3",
+            "name": "Abundance Luck/Fortune",
+            "image": "https://data.smexapp.com/subcategory/Abundance.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "12"
+        },
+        {
+            "id": "119",
+            "categoryId": "11",
+            "name": "Recovery",
+            "image": "https://data.smexapp.com/subcategory/Image 7-3-24 at 1.31 AM.jpeg",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/rife-frequencies/products/rife-frequencies-for-physio-theraphy",
+            "order": "12"
+        },
+        {
+            "id": "136",
+            "categoryId": "11",
+            "name": "Alcohol Addiction",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "13"
+        },
+        {
+            "id": "13",
+            "categoryId": "3",
+            "name": "Abundance Success",
+            "image": "https://data.smexapp.com/subcategory/Success.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "13"
+        },
+        {
+            "id": "14",
+            "categoryId": "3",
+            "name": "Abundance Happiness",
+            "image": "https://data.smexapp.com/subcategory/happiness-subcategory.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "14"
+        },
+        {
+            "id": "137",
+            "categoryId": "11",
+            "name": "Hair Regrowth",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "14"
+        },
+        {
+            "id": "15",
+            "categoryId": "3",
+            "name": "Abundance Love",
+            "image": "https://data.smexapp.com/subcategory/love-subcategory.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "15"
+        },
+        {
+            "id": "138",
+            "categoryId": "11",
+            "name": "Smoking Addiction",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "15"
+        },
+        {
+            "id": "16",
+            "categoryId": "3",
+            "name": "Brain",
+            "image": "https://data.smexapp.com/subcategory/Brain.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": null,
+            "order": "16"
+        },
+        {
+            "id": "140",
+            "categoryId": "11",
+            "name": "Eating Disorders",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "16"
+        },
+        {
+            "id": "17",
+            "categoryId": "3",
+            "name": "Wisdom",
+            "image": "https://data.smexapp.com/subcategory/Wisdom.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": null,
+            "order": "17"
+        },
+        {
+            "id": "151",
+            "categoryId": "11",
+            "name": "Fibromyalgia",
+            "image": "https://data.smexapp.com/subcategory/Screen Shot 2024-10-28 at 1.23.58 AM.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "17"
+        },
+        {
+            "id": "18",
+            "categoryId": "3",
+            "name": "Manifesting",
+            "image": "https://data.smexapp.com/subcategory/MANIFESTING.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "18"
+        },
+        {
+            "id": "155",
+            "categoryId": "11",
+            "name": "Osteoporosis",
+            "image": "https://data.smexapp.com/subcategory/Image 12-6-24 at 11.48 PM.jpeg",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/rife-frequencies/products/osteoporosis-rife-frequency-protocols",
+            "order": "18"
+        },
+        {
+            "id": "19",
+            "categoryId": "3",
+            "name": "Transformation",
+            "image": "https://data.smexapp.com/subcategory/TRANSFORMATION.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": null,
+            "order": "19"
+        },
+        {
+            "id": "156",
+            "categoryId": "11",
+            "name": "Pancreatitis",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/rife-frequencies/products/pancreatitis-frequency-protocols",
+            "order": "19"
+        },
+        {
+            "id": "20",
+            "categoryId": "3",
+            "name": "Protection",
+            "image": "https://data.smexapp.com/subcategory/Protection.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": null,
+            "order": "20"
+        },
+        {
+            "id": "157",
+            "categoryId": "11",
+            "name": "Migraine",
+            "image": "https://data.smexapp.com/subcategory/migraine.jpg",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/products/migraines-rife-frequency-protocols?_pos=2&_sid=1819ac226&_ss=r",
+            "order": "20"
+        },
+        {
+            "id": "158",
+            "categoryId": "11",
+            "name": "Cluster Headaches",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/products/cluster-headaches-rife-frequency?_pos=1&_sid=1819ac226&_ss=r",
+            "order": "21"
+        },
+        {
+            "id": "159",
+            "categoryId": "11",
+            "name": "Parkinson’s Disease",
+            "image": "https://data.smexapp.com/subcategory/image_2025_03_20T18_57_16_232Z.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/products/parkinson-s-disease-rife-frequency-protocols?_pos=1&_sid=ef4c8b0ed&_ss=r",
+            "order": "22"
+        },
+        {
+            "id": "160",
+            "categoryId": "11",
+            "name": "Crohn's Disease",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/products/crohns-disease-rife-frequency-protocols?_pos=1&_sid=778de337a&_ss=r",
+            "order": "23"
+        },
+        {
+            "id": "105",
+            "categoryId": "11",
+            "name": "Psychological & Emotional",
+            "image": "https://data.smexapp.com/subcategory/image_2024_07_02T05_08_31_771Z.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/rife-frequencies/products/rife-frequencies-for-psychological-behavioral",
+            "order": "24"
+        },
+        {
+            "id": "89",
+            "categoryId": "11",
+            "name": "Biohacking & Regeneration",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/rife-frequencies/products/appearance",
+            "order": "25"
+        },
+        {
+            "id": "90",
+            "categoryId": "11",
+            "name": "Beauty & Appearance",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "26"
+        },
+        {
+            "id": "94",
+            "categoryId": "11",
+            "name": "Brain & Emotional Health",
+            "image": "",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/rife-frequencies/products/rife-frequencies-for-blood",
+            "order": "27"
+        },
+        {
+            "id": "95",
+            "categoryId": "11",
+            "name": "Musculoskeletal System",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "28"
+        },
+        {
+            "id": "96",
+            "categoryId": "11",
+            "name": "Organs & Internal Systems",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "29"
+        },
+        {
+            "id": "97",
+            "categoryId": "11",
+            "name": "Infections & Toxins",
+            "image": "",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/rife-frequencies/products/rife-frequencies-for-brain",
+            "order": "30"
+        },
+        {
+            "id": "99",
+            "categoryId": "11",
+            "name": "Addictions & Disorders",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "31"
+        },
+        {
+            "id": "101",
+            "categoryId": "11",
+            "name": "Bones & Spine Bundle",
+            "image": "https://data.smexapp.com/subcategory/image_2024_07_02T00_23_32_490Z.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/rife-frequencies/products/physio",
+            "order": "32"
+        },
+        {
+            "id": "102",
+            "categoryId": "11",
+            "name": "Organs Bundle",
+            "image": "https://data.smexapp.com/subcategory/image_2024_07_02T00_47_45_507Z.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/rife-frequencies/products/organs",
+            "order": "33"
+        },
+        {
+            "id": "103",
+            "categoryId": "11",
+            "name": "Eyes",
+            "image": "https://data.smexapp.com/subcategory/image_2024_07_02T04_44_34_921Z.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/rife-frequencies/products/rife-frequencies-for-eyes",
+            "order": "34"
+        },
+        {
+            "id": "104",
+            "categoryId": "11",
+            "name": "Hair Growth Frequencies ",
+            "image": "https://data.smexapp.com/subcategory/image_2024_07_02T04_55_10_224Z.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/rife-frequencies/products/rife-frequencies-for-head",
+            "order": "35"
+        },
+        {
+            "id": "87",
+            "categoryId": "11",
+            "name": "General Wellness",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "36"
+        },
+        {
+            "id": "106",
+            "categoryId": "11",
+            "name": "Dental",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "37"
+        },
+        {
+            "id": "107",
+            "categoryId": "11",
+            "name": "Neck & Throat",
+            "image": null,
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "",
+            "order": "38"
+        },
+        {
+            "id": "108",
+            "categoryId": "11",
+            "name": "Cold, Flu & Viruses",
+            "image": "https://data.smexapp.com/subcategory/image_2024_07_02T06_45_32_147Z.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/rife-frequencies/products/rife-frequencies-for-virus",
+            "order": "39"
+        },
+        {
+            "id": "109",
+            "categoryId": "11",
+            "name": "Ears & Hearing",
+            "image": "https://data.smexapp.com/subcategory/image_2024_07_02T06_50_13_473Z.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/rife-frequencies/products/rife-frequencies-for-ears",
+            "order": "40"
+        },
+        {
+            "id": "110",
+            "categoryId": "11",
+            "name": "Heart",
+            "image": "",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/rife-frequencies/products/rife-frequencies-for-heart",
+            "order": "41"
+        },
+        {
+            "id": "111",
+            "categoryId": "11",
+            "name": "Immune & Detox Bundle",
+            "image": "https://data.smexapp.com/subcategory/image_2024_07_02T07_02_00_643Z.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/rife-frequencies/products/immune",
+            "order": "42"
+        },
+        {
+            "id": "113",
+            "categoryId": "11",
+            "name": "Lungs & Respiratory System",
+            "image": "",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/rife-frequencies/products/rife-frequencies-for-respiratory",
+            "order": "43"
+        },
+        {
+            "id": "114",
+            "categoryId": "11",
+            "name": "Immune System",
+            "image": "https://data.smexapp.com/subcategory/image_2024_07_02T07_55_29_460Z.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/rife-frequencies/products/rife-frequencies-for-immune-system",
+            "order": "44"
+        },
+        {
+            "id": "117",
+            "categoryId": "11",
+            "name": "Nose",
+            "image": "https://data.smexapp.com/subcategory/image_2024_07_02T08_26_49_200Z.png",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/rife-frequencies/products/rife-frequencies-for-nose",
+            "order": "45"
+        },
+        {
+            "id": "118",
+            "categoryId": "11",
+            "name": "Joints",
+            "image": "https://data.smexapp.com/subcategory/Image 7-3-24 at 1.22 AM.jpeg",
+            "is_free": "0",
+            "is_active": "1",
+            "unlockUrl": "https://qilifestore.com/collections/rife-frequencies/products/rife-frequencies-for-general-disease-for-bones-joints",
+            "order": "46"
+        }
+    ]
+}
