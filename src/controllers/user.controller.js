@@ -21,10 +21,15 @@ exports.updateUserProfile = async (req, res) => {
   try {
     const user = await userModel.findById(req.user.id);
 
+
     if (user) {
       user.name = req.body.name || user.name;
       user.email = req.body.email || user.email;
       user.avatar = req.body.avatar || user.avatar;
+
+      if (req.file) {
+        user.avatar = `/uploads/avatars/${req.file.filename}`;
+      }
 
       if (req.body.password) {
         user.password = req.body.password;
