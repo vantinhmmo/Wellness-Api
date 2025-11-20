@@ -8,5 +8,6 @@ router.use(authMiddleware);
 
 router.get('/', getWellness);
 router.post('/', createWellnessLog);
+router.put('/:id', createWellnessLog);
 
 module.exports = router;

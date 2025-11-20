@@ -2,7 +2,7 @@ const DailyWellness = require('../models/dailyWellness.model.js');
 
 /**
  * @desc   
- * @route   POST /api/wellness/log
+ * @route   POST /api/wellness/
  * @access  Private
  */
 exports.createWellnessLog = async (req, res) => {
@@ -59,6 +59,69 @@ exports.createWellnessLog = async (req, res) => {
     res.status(500).json({ success: false, error: 'Server Error' });
   }
 };
+
+/**
+ * @desc    Edit a specific wellness log
+ * @route   PUT /api/wellness/:wellnessId
+ * @access  Private
+ */
+exports.editWellnessLog = async (req, res) => {
+  const { mood, energy, stress, sleep } = req.body;
+  const { id } = req.params;
+
+  if (mood === undefined || energy === undefined || stress === undefined || sleep === undefined) {
+    return res.status(400).json({ success: false, error: 'Please provide all wellness metrics' });
+  }
+
+  try {
+    const userId = req.user.id;
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+
+    const dailyLog = await DailyWellness.findOne({ user: userId, date: today });
+    if (!dailyLog) {
+      return res.status(404).json({ success: false, error: 'No wellness logs found for today' });
+    }
+
+    const log = dailyLog.logs.id(id);
+    if (!log) {
+      return res.status(404).json({ success: false, error: 'Log not found' });
+    }
+
+    // Update the log values
+    log.mood = mood;
+    log.energy = energy;
+    log.stress = stress;
+    log.sleep = sleep;
+
+    // Recalculate averages
+    const totalLogs = dailyLog.logs.length;
+    let totalMood = 0, totalEnergy = 0, totalStress = 0, totalSleep = 0;
+    for (const l of dailyLog.logs) {
+      totalMood += l.mood;
+      totalEnergy += l.energy;
+      totalStress += l.stress;
+      totalSleep += l.sleep;
+    }
+
+    dailyLog.averages.mood = totalMood / totalLogs;
+    dailyLog.averages.energy = totalEnergy / totalLogs;
+    dailyLog.averages.stress = totalStress / totalLogs;
+    dailyLog.averages.sleep = totalSleep / totalLogs;
+
+    await dailyLog.save();
+
+    res.status(200).json({
+      success: true,
+      data: dailyLog
+    });
+
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ success: false, error: 'Server Error' });
+  }
+};
+
 /**
  * @desc    Lấy dữ liệu wellness theo khoảng thời gian cho biểu đồ
  * @route   GET /api/wellness/trends?period=[today|week|month]
